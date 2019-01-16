@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/armandovila/Projects/MySite/MySite.csproj",
+      "projectUniqueName": "/Users/armandovila/Projects/mywebsite/MySite.csproj",
       "projectName": "MySite",
-      "projectPath": "/Users/armandovila/Projects/MySite/MySite.csproj",
+      "projectPath": "/Users/armandovila/Projects/mywebsite/MySite.csproj",
       "packagesPath": "/Users/armandovila/.nuget/packages/",
-      "outputPath": "/Users/armandovila/Projects/MySite/obj/",
+      "outputPath": "/Users/armandovila/Projects/mywebsite/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
